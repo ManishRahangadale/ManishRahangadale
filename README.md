@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manish Rahangadale</h1>
 <h3 align="center">A passionate Software tester from India</h3>
 
-- 🔭 I’m currently working on **Issuer Banking System**
+- 🔭 I’m currently working on ** application called Issuer Banking System for europian clients as a QA engineer**
 
 - 🌱 I’m currently learning **Selenium and java**
 
